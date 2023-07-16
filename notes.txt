@@ -1,0 +1,6 @@
+Linear Equation: y = mx + b
+
+m = Slope or Gradient (get object.value coef_)
+b = intercept (get value object.intercept_)
+
+x is the veriable here.
